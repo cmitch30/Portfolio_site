@@ -1,8 +1,50 @@
 {
-    "projects":
-    [
-{
-    
-}
+  "projects": [
+      {
+        "id": 0,
+        "projects_name": "Random Quote Generator",
+        "description": "JavaScript",
+        "technologies": [],
+        "live_link": "https://cmitch30.github.io/quoteGenerator/",
+        "github_link": "https://github.com/cmitch30/quoteGenerator",
+        "image_urls": []
+      },
+      {
+        "id": 1,
+        "projects_name": "Data Pagination and Filtering",
+        "description": "JavaScript",
+        "technologies": [],
+        "live_link": "https://cmitch30.github.io/Data_Filtering/",
+        "github_link": "https://github.com/cmitch30/Data_Filtering",
+        "image_urls": []
+      },
+      {
+        "id": 2,
+        "projects_name": "Interactive Form",
+        "description": "JavaScript",
+        "technologies": [],
+        "live_link": "https://cmitch30.github.io/Interactive_form/",
+        "github_link": "https://github.com/cmitch30/Interactive_form",
+        "image_urls": []
+      },
+      {
+        "id": 3,
+        "projects_name": "OOP Game Show App",
+        "description": "JavaScript",
+        "technologies": [],
+        "live_link": "https://cmitch30.github.io/Phrase_Hunter/",
+        "github_link": "https://github.com/cmitch30/Phrase_Hunter",
+        "image_urls": []
+      },
+      {
+        "id": 4,
+        "projects_name": "Public API Request",
+        "description": "JavaScript",
+        "technologies": [],
+        "live_link": "link here",
+        "github_link": "https://github.com/cmitch30/tech-degree-project-5",
+        "image_urls": []
+      }
     ]
+  
 }
