@@ -3,6 +3,8 @@ const app = express()
 const bodyParser = require("body-parser");
 const cookieParser = require("cookie-parser");
 const port = 3000;
+const homeRoute = require('./routes/home')
+const aboutRoute = require('./routes/about')
 
 app.use(bodyParser.urlencoded({ extended: false }));
 app.use(cookieParser());
@@ -10,6 +12,9 @@ app.use("/static", express.static("public"));
 
 
 app.set('view engine', 'pug')
+
+app.use(homeRoute);
+app.use(aboutRoute);
 
 app.use((req, res, next) => {
   const err = new Error("Not Found");
