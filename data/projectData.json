@@ -20,7 +20,7 @@
     {
       "id": 1,
       "projects_name": "Data Pagination and Filtering",
-      "description": "App which displays several \\“pages\\” of student data that the user can easily navigate, filter, and view.",
+      "description": "App which displays several “pages” of student data that the user can easily navigate, filter, and view.",
       "technologies": [
         "JavaScript",
         "Pagination",
@@ -37,7 +37,7 @@
     {
       "id": 2,
       "projects_name": "Interactive Form",
-      "description": "Enhancing a form so that it\\’s interactive, and easy to use.",
+      "description": "Enhancing a form so that it’s interactive, and easy to use.",
       "technologies": [
         "JavaScript",
         "Regular Expressions",
