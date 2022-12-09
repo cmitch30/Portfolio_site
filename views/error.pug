@@ -1,12 +1,11 @@
-extends layout.pug
+extends layout
 
 block content
   nav.nav
     a(href='/')
       span &larr;
-      |  Back 
+      |  Back
   article
-        .box
-            h1= err.message
-            h2= err.status
-            pre= err.stack
+  .box
+  h1= err.message
+  h3= err.status
