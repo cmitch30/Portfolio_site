@@ -1,0 +1,88 @@
+{
+  "projects": [
+    {
+      "id": 0,
+      "projects_name": "Random Quote Generator",
+      "description": "A program that displays a randomly selected quote each time the user clicks a button.",
+      "technologies": [
+        "JavaScript",
+        "Loops",
+        "Conditionals",
+        "Object Literals"
+      ],
+      "live_link": "https://cmitch30.github.io/quoteGenerator/",
+      "github_link": "https://github.com/cmitch30/quoteGenerator",
+      "image_urls": [
+        "/static/img/quoteGen/quote2.png",
+        "/static/img/quoteGen/quote3.png"
+      ]
+    },
+    {
+      "id": 1,
+      "projects_name": "Data Pagination and Filtering",
+      "description": "App which displays several \\“pages\\” of student data that the user can easily navigate, filter, and view.",
+      "technologies": [
+        "JavaScript",
+        "Pagination",
+        "DOM Manipulation",
+        "Search Functions"
+      ],
+      "live_link": "https://cmitch30.github.io/Data_Filtering/",
+      "github_link": "https://github.com/cmitch30/Data_Filtering",
+      "image_urls": [
+        "/static/img/dataPagn/datapag.png",
+        "/static/img/dataPagn/datapag2.png"
+      ]
+    },
+    {
+      "id": 2,
+      "projects_name": "Interactive Form",
+      "description": "Enhancing a form so that it\\’s interactive, and easy to use.",
+      "technologies": [
+        "JavaScript",
+        "Regular Expressions",
+        "String Manipulation",
+        "Form Validation"
+      ],
+      "live_link": "https://cmitch30.github.io/Interactive_form/",
+      "github_link": "https://github.com/cmitch30/Interactive_form",
+      "image_urls": ["/static/img/form/form1.png", "/static/img/form/form2.png"]
+    },
+    {
+      "id": 3,
+      "projects_name": "OOP Game Show App",
+      "description": "A browser-based, word guessing game.",
+      "technologies": [
+        "JavaScript",
+        "Object-Oriented Programming",
+        "Callback Functions"
+      ],
+      "live_link": "https://cmitch30.github.io/Phrase_Hunter/",
+      "github_link": "https://github.com/cmitch30/Phrase_Hunter",
+      "image_urls": [
+        "/static/img/phrase/phrase1.png",
+        "/static/img/phrase/phrase2.png"
+      ]
+    },
+    {
+      "id": 4,
+      "projects_name": "Public API Request",
+      "description": "An employee directory created by communicating with a third-party API",
+      "technologies": [
+        "JavaScript",
+        "API Request",
+        "HTTP",
+        "AJAX",
+        "Fetch API",
+        "Async Programming"
+      ],
+      "live_link": "link here",
+      "github_link": "https://github.com/cmitch30/tech-degree-project-5",
+      "image_urls": 
+      [
+        "/static/img/api/api1.png",
+        "/static/img/api/api2.png"
+      ]
+    }
+  ]
+}

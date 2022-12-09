@@ -1,0 +1,9 @@
+extends layout.pug
+
+block content 
+  article
+        .box
+            h1 Whoops something went wrong!
+            h2= err.message
+            h3= err.status
+            pre= err.stack
