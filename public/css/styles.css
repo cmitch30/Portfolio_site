@@ -20,7 +20,7 @@ body {
   font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
   font-weight: normal;
   line-height: 1.5;
-  color: #0a0a0a;
+  color: rgb(218, 205, 205);
   background: #fefefe;
   background: #000;
   transform: translateX(0px);
@@ -28,7 +28,7 @@ body {
 }
 
 article {
-  background: #fefefe;
+  background: #180303;
 }
 
 h1,h2,h3,h4,h5,p{
@@ -51,7 +51,7 @@ h6{
 
 p{
   font-size: 15px;
-  color: #666;
+  color: rgb(218, 205, 205);
 }
 
 a {
@@ -63,7 +63,7 @@ a {
   min-width: 320px;
   height: 100%;
   min-height: 100%;
-  background: #fefefe;
+  background: #180303;
 }
 
 .flex-row-wrap {
@@ -82,7 +82,7 @@ a {
   width: 100%;
   max-width: 1200px;
   padding: 40px 50px 30px;
-  background: #fefefe;
+  background: #180303;
   border-bottom: 1px solid #eaeaea;
 }
 
@@ -159,7 +159,7 @@ nav a span {
 }
 
 .sidebar h5 {
-  color: #fefefe;
+  color: rgb(218, 205, 205);
   margin: 0 auto 0.5rem;
 }
 
@@ -167,7 +167,7 @@ nav a span {
   text-rendering: optimizeLegibility;
   line-height: 1.6;
   font-size: 14px;
-  color: #999
+  color: rgb(218, 205, 205);
 }
 
 .sidebar a {
@@ -176,12 +176,12 @@ nav a span {
   font-size: 13px;
   letter-spacing: 2.5px;
   text-transform: uppercase;
-  color: #555;
+  color: rgb(218, 205, 205);;
 }
 
 .header {
   vertical-align: middle;
-  color: #fefefe;
+  color: rgb(218, 205, 205);;
   height: 40px;
   padding: 0.5rem;
   background: #0a0a0a;
@@ -229,7 +229,7 @@ nav a span {
 
 .portfolio-intro h1 {
   font-size: 1.5rem;
-  color: #0a0a0a;
+  color: rgb(218, 205, 205);;
   margin: 0 auto 8px;
 }
 
@@ -247,7 +247,7 @@ nav a span {
   font-size: 13px;
   letter-spacing: 2.25px;
   text-transform: uppercase;
-  color: #222;;
+  color: rgb(218, 205, 205);
   margin: 0 auto 8px;
 }
 
@@ -339,6 +339,7 @@ nav a span {
     grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
   }
 }
+
 
 
 
