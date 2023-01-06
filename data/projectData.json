@@ -83,6 +83,23 @@
         "/static/img/api/api1.png",
         "/static/img/api/api2.png"
       ]
-    }
+    },
+        {
+          "id": 5,
+          "projects_name": "React Gallery",
+          "description": "A react gallery connecting with a third-party API",
+          "technologies": [
+            "JavaScript",
+            "API Request",
+            "React",
+            "HTTP",
+            "AJAX",
+            "Fetch API",
+            "Async Programming"
+          ],
+          "live_link": "https://cmitch30.github.io/gallery_app/",
+          "github_link": "https://github.com/cmitch30/gallery_app",
+          "image_urls": ["/static/img/react/react1.png", "/static/img/react/react2.png"]
+        }
   ]
 }
