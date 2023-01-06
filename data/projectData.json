@@ -100,6 +100,26 @@
           "live_link": "https://cmitch30.github.io/gallery_app/",
           "github_link": "https://github.com/cmitch30/gallery_app",
           "image_urls": ["/static/img/react/react1.png", "/static/img/react/react2.png"]
-        }
+        },
+            {
+              "id": 6,
+              "projects_name": "SQL Library",
+              "description": "A SQL database library for add, creating and deleting books.",
+              "technologies": [
+                "JavaScript",
+                "SQL",
+                "Sequelize",
+                "SQlite",
+                "Databases",
+                "HTTP",
+                "Async Programming"
+              ],
+              "live_link": "https://sql-library.onrender.com",
+              "github_link": "https://github.com/cmitch30/Sql_Library",
+              "image_urls": [
+                "/static/img/sql/sql1.png",
+                "/static/img/sql2/sql2.png"
+              ]
+            }
   ]
 }
